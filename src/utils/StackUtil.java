@@ -1,7 +1,8 @@
 package utils;
 
-import org.example.adt.Stack;
-import org.example.adt.StaticStack;
+
+import adt.list.Stack;
+import adt.list.StaticStack;
 
 public class StackUtil {
 

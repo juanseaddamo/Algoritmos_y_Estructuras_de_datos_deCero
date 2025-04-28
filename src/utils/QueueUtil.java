@@ -1,9 +1,10 @@
 package utils;
 
-import org.example.adt.Queue;
-import org.example.adt.Stack;
-import org.example.adt.StaticQueue;
-import org.example.adt.StaticStack;
+
+import adt.list.Queue;
+import adt.list.Stack;
+import adt.list.StaticQueue;
+import adt.list.StaticStack;
 
 public class QueueUtil {
 

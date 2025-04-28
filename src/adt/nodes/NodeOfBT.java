@@ -1,6 +1,6 @@
 package adt.nodes;
 
-import org.example.adt.BinaryTree;
+import adt.tree.BinaryTree;
 
 public class NodeOfBT {
 

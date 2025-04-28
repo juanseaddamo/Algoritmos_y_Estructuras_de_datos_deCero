@@ -1,6 +1,11 @@
 package utils;
 
-import org.example.adt.*;
+import adt.*;
+import adt.list.Stack;
+import adt.priorityqueue.PriorityQueue;
+import adt.priorityqueue.StaticPriorityQueue;
+import adt.set.Set;
+import adt.set.StaticSet;
 
 public class SetUtil {
 

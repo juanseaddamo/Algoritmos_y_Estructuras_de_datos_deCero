@@ -1,7 +1,8 @@
 package utils;
 
-import org.example.adt.PriorityQueue;
-import org.example.adt.StaticPriorityQueue;
+
+import adt.priorityqueue.PriorityQueue;
+import adt.priorityqueue.StaticPriorityQueue;
 
 public class PriorityQueueUtil {
 

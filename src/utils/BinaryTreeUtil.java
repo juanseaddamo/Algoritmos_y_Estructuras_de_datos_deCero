@@ -1,6 +1,12 @@
 package utils;
 
-import org.example.adt.*;
+import adt.*;
+import adt.list.DynamicQueueOfBT;
+import adt.list.QueueOfBT;
+import adt.list.Stack;
+import adt.tree.BinaryTree;
+import adt.tree.DynamicSearchBinaryTree;
+import adt.tree.SearchBinaryTree;
 
 public class BinaryTreeUtil {
     public static void printPreOrder(BinaryTree binaryTree) {

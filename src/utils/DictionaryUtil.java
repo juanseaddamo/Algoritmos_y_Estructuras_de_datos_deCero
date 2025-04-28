@@ -1,8 +1,14 @@
 package utils;
 
-import org.example.adt.*;
+import adt.dictionary.Dictionary;
+import adt.dictionary.MultipleDictionary;
+import adt.dictionary.StaticDictionary;
+import adt.set.Set;
+import adt.*;
+import adt.set.StaticSet;
 
 import java.util.List;
+
 
 public class DictionaryUtil {
 
